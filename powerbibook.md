@@ -45,13 +45,6 @@
 
 Please listen below videos and read the material
 
-[Intro to DW](https://youtu.be/NAuWUWmdmsE)
-
-[OLTP Vs OLAP](https://youtu.be/KeJi1xDHQtA)
-
-[Types of Schemas](https://youtu.be/XeMpv1Q3aJ8)
-
-
 1. Name few business domains around you and understand how they collect data from customer.
     - Retail
         - amazon.in/amazon.com/amazon.co.uk        
@@ -76,7 +69,7 @@ Please listen below videos and read the material
     - Is stored in **OLTP**(On Line Transactional Processing)
     - Source of transactional data is mainly **web applications** and **mobile apps**
     - Example : ATM Transactions , Share market transactions..etc
-    - ![image](https://user-images.githubusercontent.com/20516321/115664644-bb07c000-a35f-11eb-878a-ead2e05c2c1b.png)
+    
 4. Analytical Data
     - Is usuful to **ANALYSE**  the business
     - Is **Historical** and **Summarized**
