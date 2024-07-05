@@ -62,7 +62,7 @@
         - Power View
             - [Read More](https://support.office.com/en-us/article/power-query-overview-and-learning-ed614c81-4b00-4291-bd3a-55d80767f81d)
             
-2. **Power BI Service**(MSFT Cloud)
+2. **Power BI Service**(Microsoft Cloud)
     - Dashboards are developed here
     - Conduct data-driven collaboration
     - Discover insights quickly
@@ -79,10 +79,10 @@
 - Run the MSI installer and follow the setup steps    
 
 
-# MSFT SQL Server Installation
+# Microsoft SQL Server Installation
 ---
 
-## Install MSFT SQL Server Database
+## Install Microsoft SQL Server Database
 ---
 
 1. Download Sqlserver Developer edition [here](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)
