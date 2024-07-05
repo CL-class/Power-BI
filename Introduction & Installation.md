@@ -78,16 +78,6 @@
 - Download software [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Run the MSI installer and follow the setup steps    
 
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation9.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation8.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation7.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation6.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation5.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation4.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation3.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation2.png?raw=true)
-![](https://github.com/rritec/powerbi/blob/master/images/powerbiinstallation1.png?raw=true)
-[Reference](https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop)
 
 # MSFT SQL Server Installation
 ---
