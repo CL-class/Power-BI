@@ -484,17 +484,17 @@ https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference
 1. MySql is a oracle product
 1. Install **MySql** software by following [this link](https://github.com/CL-class/Power-BI/blob/main/01%20Introduction%20%26%20Installation.md#mysql-installationoptional)
 1. Open **MySql Workbench** > if required create **new connection** or use **existing connection** > Click on **New SQL Tab for execution of queries**
-1. In **Navigator** Window in empty space > Right Click > click on **Create Schema** > Provide schema name as **rritecdb** > click on **apply** > click on **apply** > Click on **Finish**
+1. In **Navigator** Window in empty space > Right Click > click on **Create Schema** > Provide schema name as **hariDB** > click on **apply** > click on **apply** > Click on **Finish**
 
 **or**
 
 run below script 
 
 ``` sql
-CREATE SCHEMA rritecDB;
+CREATE SCHEMA hariDB;
 ```
 ``` sql
-USE rritecdb;
+USE hariDB;
 ```
 
 ## Load Data
@@ -678,11 +678,11 @@ INSERT INTO emp30 (empno,ename,job,mgr,hiredate,sal,comm,deptno,test) VALUES
 
 ![image](https://user-images.githubusercontent.com/20516321/116333897-f25bee00-a7f1-11eb-8cd0-161a5ed8e4dc.png)
 ``` sql
-CREATE DATABASE rritecDB;
+CREATE DATABASE hariDB;
 
 GO
 
-use rritecDB;
+use hariDB;
 
 GO
 
@@ -771,7 +771,7 @@ INSERT INTO [dbo].[SALGRADE] VALUES (5, 3001, 9999);
 
 
  
-1. provider server as **localhost** > Database as **rritecDB** > Click on **ok**
+1. provider server as **localhost** > Database as **hariDB** > Click on **ok**
 
     
     
