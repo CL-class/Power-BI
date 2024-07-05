@@ -87,23 +87,23 @@
 
 1. Download Sqlserver Developer edition [here](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0132.png?raw=true)
+    
     
 1. Run below **.exe** file
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0126.png?raw=true)
+   
 1. Click on **Basic**
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0127.png?raw=true)
+    
 1. Click on **Accept**
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0128.png?raw=true)
+    
 1. Click on **Install**
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0130.png?raw=true)
+   
 1. Observe connections info
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0129.png?raw=true)  
+   
    
 
     
@@ -114,14 +114,13 @@
 1. Download SQL Server Management Studio [here](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)
 1. Double Click on exe file
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0133.png?raw=true)
+   
 1.   Click on **Install**
 
-   ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0134.png?raw=true)
+  
 1.   Click on **Restart**
 
-   ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0136.png?raw=true)   
-
+ 
 
 ## Restore sample data
 ---
@@ -138,13 +137,13 @@ direct link : https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data
 
 1. Double Click on exe file
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0136.png?raw=true)
+
 1.   Click on **install**
 
-   ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0137.png?raw=true)
+   
 1.   Click on **install**
 
-   ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0138.png?raw=true)   
+  
 
 
 # MySql Installation(Optional)
@@ -152,29 +151,16 @@ direct link : https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data
 1. Download the software 
     https://dev.mysql.com/downloads/file/?id=508936
 3. Ckick in msi file and install it
-![image](https://user-images.githubusercontent.com/20516321/148321034-5bbd5b60-57e6-42c4-ae60-3fb446f6c1b1.png)
+
 
 4. Click on Next
-![image](https://user-images.githubusercontent.com/20516321/148321192-cef7b0f0-d38a-417e-b0a4-3827711da9e3.png)
+
 
 5. Observe all components
-![image](https://user-images.githubusercontent.com/20516321/148321246-8f013719-ee9a-428a-844b-7134cc97aaf0.png)
+
 6. Click on Next
-    ![image](https://user-images.githubusercontent.com/20516321/148321730-ebf433d9-08cb-4b66-985e-98d27a9be83b.png)
+   
 
 7. Provide **root** user password and notedown some where
-    ![image](https://user-images.githubusercontent.com/20516321/148321849-dff93321-3f00-466c-b3ca-af97b5758a5f.png)
-
-
-
-
-## Interview Questions
------
-1. What are the **key components** of power BI.
-    1. Power BI Desktop(Power Query/Power Pivot/Power View)
-    2. Power BI Service
-    3. Power BI Mobile
-    4. Power BI Maps
-    5. Power BI Embeded Analytics
-    
+   
 
