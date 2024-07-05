@@ -53,7 +53,7 @@
     - Create rich,interactive reports with visual analytics at your fingertips
     - Go from `data` →  `insight` →  `action` with Power BI Desktop
     - Connect to your data, wherever it is
-    - Prep and model your data with ease
+    - Prepare and model your data with ease
     - Provide advanced analytics with the familiarity of Excel
     - Create interactive reports customized for your business
     - Power BI Desktop is nothing but three tools of excel 
