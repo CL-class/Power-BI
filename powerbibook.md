@@ -3530,11 +3530,9 @@ Features	All Dax Functions using possible	Few Dax Functions using possible
 ## Install SQL Server Analysis Services
 1. Start > Microsoft SQL Server 2019 > SQL Server 2019 Installation Center (64-bit)
 1. Click on Installation > New Sql Server Stand alone installation or add Features to existing installation> select c drive > sql2019 folder > Developer_enu
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0139.png?raw=true)
+
 1.  Select Add fetures to an existing instance
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0140.png?raw=true)
 1. Select Analysis Service
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0141.png?raw=true)
 1. Follow the wizard    
 
 
@@ -3687,14 +3685,13 @@ https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-rls
 
 | Item      | Price | Account Manager     |
 | ---        |    ----   |          --- |
-| Item 1      | 10       | studentpbi@mylaramreddy.onmicrosoft.com   |
-| Item 2   | 20        | studentpbi@mylaramreddy.onmicrosoft.com      |
-| Item 3   | 30        | vmyla1@mylaramreddy.onmicrosoft.com      |
-| Item 4   | 40        | vmyla1@mylaramreddy.onmicrosoft.com      |
+| Item 1      | 10       | 123@reddy.onmicrosoft.com   |
+| Item 2   | 20        | 345@reddy.onmicrosoft.com      |
+| Item 3   | 30        | 567@reddy.onmicrosoft.com      |
+| Item 4   | 40        | 789@reddy.onmicrosoft.com      |
 
 2. Save the excel as rritec_rls_source
 3. Import the excel and develop a table report with three columns
-![image](https://user-images.githubusercontent.com/20516321/114550670-15c65b00-9c80-11eb-8129-9e0bef38f3a4.png)
 
 4. Click on the model > Click on the Manage Roles > Create a role as shown below
 ![image](https://user-images.githubusercontent.com/20516321/114550922-5d4ce700-9c80-11eb-91eb-afe79589603c.png)
@@ -3750,9 +3747,9 @@ MicrosoftPowerBIMgmt.Workspaces
 Connect-PowerBIServiceAccount
 
 
-Get-PowerBIWorkspace | Export-Csv -Path C:\Users\ramreddymyla\Desktop\rritec\20210731\cmdlets\ws.csv
-Get-PowerBIDashboard -WorkspaceId 987a132d-795b-406e-9358-b6fbd3fade8f | Export-Csv -Path C:\Users\ramreddymyla\Desktop\rritec\20210731\cmdlets\ds.csv
-Get-PowerBIReport -WorkspaceId 987a132d-795b-406e-9358-b6fbd3fade8f | Export-Csv -Path C:\Users\ramreddymyla\Desktop\rritec\20210731\cmdlets\rs.csv
+Get-PowerBIWorkspace | Export-Csv -Path C:\Users\*****************\ws.csv
+Get-PowerBIDashboard -WorkspaceId 987a132d-795b-406e-9358-b6fbd3fade8f | Export-Csv -Path C:\Users\**************\ds.csv
+Get-PowerBIReport -WorkspaceId 987a132d-795b-406e-9358-b6fbd3fade8f | Export-Csv -Path C:\Users\*****\Desktop\*****\20210731\cmdlets\rs.csv
 ```
 
 ## Exercise 3: Get report names from multiple workspaces
